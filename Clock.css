@@ -1,0 +1,30 @@
+body {
+    font-family: 'Rajdhani', sans-serif ;
+    background: #f7ff00;
+    background: -webkit-linear-gradient(to left, #db36a4, #f7ff00);
+    background: linear-gradient(to left, #db36a4, #f7ff00);
+    
+    /* background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000); */
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 14px;
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 10px #646464;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
