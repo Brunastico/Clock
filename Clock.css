@@ -1,17 +1,17 @@
 body {
-    font-family: 'Rajdhani', sans-serif ;
-    background: #f7ff00;
-    background: -webkit-linear-gradient(to left, #db36a4, #f7ff00);
-    background: linear-gradient(to left, #db36a4, #f7ff00);
-    
-    /* background: #000000;
-    background: -webkit-linear-gradient(to right, #434343, #000000);
-    background: linear-gradient(to right, #434343, #000000); */
+    font-family: 'Rajdhani', sans-serif;
+}
+
+div {
+    text-align: center;
+    text-shadow: rgb(167, 167, 167) 0.1em 0.1em 0.2em;
+    padding: 8px;
 }
 
 header {
     color: white;
     text-align: center;
+    text-shadow: black 0.1em 0.1em 0.3em;
 }
 
 section {
@@ -20,11 +20,12 @@ section {
     padding: 14px;
     width: 500px;
     margin: 0 auto;
-    box-shadow: 3px 3px 10px #646464;
+    box-shadow: 3px 3px 10px #a7a6a6;
 }
 
 footer {
     color: white;
     text-align: center;
     font-style: italic;
+    text-shadow: black 0.1em 0.1em 0.3em;
 }
